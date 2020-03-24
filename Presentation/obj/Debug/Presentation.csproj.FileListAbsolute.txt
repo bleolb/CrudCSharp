@@ -1,0 +1,15 @@
+C:\Users\Administrador\source\repos\TallerIt\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\TallerIt\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Administrador\source\repos\TallerIt\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\TallerIt\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\TallerIt\Presentation\obj\Debug\Presentation.Forms.FormEmployee.resources
+C:\Users\Administrador\source\repos\TallerIt\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Administrador\source\repos\TallerIt\Presentation\bin\Debug\Presentation.exe
+C:\Users\Administrador\source\repos\TallerIt\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Administrador\source\repos\TallerIt\Presentation\bin\Debug\Domain.dll
+C:\Users\Administrador\source\repos\TallerIt\Presentation\bin\Debug\DataAccess.dll
+C:\Users\Administrador\source\repos\TallerIt\Presentation\bin\Debug\Domain.pdb
+C:\Users\Administrador\source\repos\TallerIt\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\Administrador\source\repos\TallerIt\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Administrador\source\repos\TallerIt\Presentation\obj\Debug\Presentation.exe
+C:\Users\Administrador\source\repos\TallerIt\Presentation\obj\Debug\Presentation.pdb

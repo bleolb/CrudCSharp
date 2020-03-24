@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataAccess",
+    "\\DataAccess\\Contracts",
+    "\\DataAccess\\Repositories",
+    "\\Presentation",
+    "\\Presentation\\Forms"
+  ],
+  "SelectedNode": "\\Presentation\\Forms\\FormEmployee.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}
