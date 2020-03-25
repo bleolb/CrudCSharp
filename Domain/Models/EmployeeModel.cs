@@ -21,7 +21,7 @@ namespace Domain.Models
         private int age;
 
         private IEmployeeRepository employeeRepository;
-        public EntityState State { private get; set; }
+        public EntityState State { get; set; }
         private List<EmployeeModel> listEmployees;
 
         //PROPIEDADES/MODELO DE VISTA/ VALIDAR DATOS
@@ -79,7 +79,7 @@ namespace Domain.Models
             {
                 System.Data.SqlClient.SqlException sqlEx = ex as System.Data.SqlClient.SqlException;
                 if (sqlEx != null && sqlEx.Number == 2627)
-                    message = "Duplicate Record";
+                    message = "Tarado ya esta o no lo ves";
                 else
                     message = ex.ToString();
             }
@@ -107,7 +107,7 @@ namespace Domain.Models
         }
         public IEnumerable<EmployeeModel> FindById(string filter)
         {
-            return listEmployees.FindAll(e => e.idNumber.Contains(filter) ||e.name.Contains(filter)); 
+            return GetAll().FindAll(e => e.idNumber.Contains(filter) ||e.name.Contains(filter)); 
         }
         private int CalculateAge(DateTime date)
         {
